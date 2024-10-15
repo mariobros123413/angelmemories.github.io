@@ -1,0 +1,90 @@
+{
+  "name": "Angel Memories",
+  "short_name": "angelmemories",
+  "theme_color": "#4D86B7",
+  "background_color": "#fff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./index.html",
+  "icons": [
+    {
+      "src": "images/icons/icon-72x72.png",
+      "sizes": "72x54",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-96x96.png",
+      "sizes": "96x71",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-128x128.png",
+      "sizes": "128x95",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-144x144.ico",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-152x152.png",
+      "sizes": "152x113",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-192x192.png",
+      "sizes": "192x143",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-384x384.png",
+      "sizes": "384x285",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icons/icon-512x512.png",
+      "sizes": "512x380",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "./assets/img/memorial.jpg",
+      "sizes": "604x404",
+      "type": "image/jpg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./assets/img/memorial.jpg",
+      "sizes": "604x404",
+      "type": "image/jpg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "./assets/img/hero-bg.jpg",
+      "sizes": "768x448",
+      "type": "image/jpg",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./assets/img/hero-bg.jpg",
+      "sizes": "768x448",
+      "type": "image/jpg",
+      "form_factor": "wide"
+    },
+    {
+      "src": "./assets/img/cementerio-dark.avif",
+      "sizes": "626x417",
+      "type": "image/avif",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "./assets/img/cementerio-dark.avif",
+      "sizes": "626x417",
+      "type": "image/avif",
+      "form_factor": "wide"
+    }
+  ]
+}
