@@ -75,15 +75,15 @@
       "form_factor": "wide"
     },
     {
-      "src": "./assets/img/cementerio-dark.avif",
-      "sizes": "626x417",
-      "type": "image/avif",
+      "src": "./assets/img/cementerio-dark.jpg",
+      "sizes": "2560x1497",
+      "type": "image/jpg",
       "form_factor": "narrow"
     },
     {
-      "src": "./assets/img/cementerio-dark.avif",
-      "sizes": "626x417",
-      "type": "image/avif",
+      "src": "./assets/img/cementerio-dark.jpg",
+      "sizes": "2560x1497",
+      "type": "image/jpg",
       "form_factor": "wide"
     }
   ]
